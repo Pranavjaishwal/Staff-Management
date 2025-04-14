@@ -1,4 +1,3 @@
-# staff-profile
 # Staff Management System
 
 A comprehensive Staff Management System designed to manage staff details, roles, and responsibilities efficiently. This project is built using modern web technologies and provides a user-friendly interface for managing staff-related operations.

@@ -7,14 +7,12 @@ A comprehensive Staff Management System designed to manage staff details, roles,
 
 ## Features
 
-- **Staff Management**: Add, update, delete, and view staff details.
-- **Role Assignment**: Assign roles and responsibilities to staff members.
-- **Search and Filter**: Easily search and filter staff based on various criteria.
-- **Responsive Design**: Fully responsive UI for seamless use on desktop and mobile devices.
-- **Authentication**: Secure login and role-based access control.
-- **Dashboard**: Overview of staff statistics and activities.
-- **Export Data**: Export staff data in CSV or Excel format.
-- **Notifications**: Alerts for important updates or changes.
+- Tabbed form interface for collecting detailed staff profile information
+- Related information section with personal and banking details
+- Avatar upload placeholder
+- Responsive design using Tailwind CSS
+- Clean dashboard landing page with photo and “Create Profile” button
+- Staff profile display screen
 
 ---
 
@@ -25,16 +23,6 @@ A comprehensive Staff Management System designed to manage staff details, roles,
 - **Database**: MongoDB
 - **Authentication**: JSON Web Tokens (JWT)
 - **Version Control**: Git and GitHub
-
----
-
-## Prerequisites
-
-Before running this project, ensure you have the following installed:
-
-- Node.js (v16 or higher)
-- npm 
-- MongoDB (local or cloud instance)
 
 ---
 
@@ -78,17 +66,6 @@ Before running this project, ensure you have the following installed:
 
 ---
 
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-name`).
-3. Commit your changes (`git commit -m "Add feature"`).
-4. Push to the branch (`git push origin feature-name`).
-5. Open a pull request.
-
----
 
 ## License
 
